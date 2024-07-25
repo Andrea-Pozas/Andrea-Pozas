@@ -5,11 +5,17 @@
 ✨Sobre mí: Disfrutando de una transición laboral al Quality Assurance. Descubrí mi pasión a la tecnología mientras administraba un blog en WordPress, mi curiosidad me llevó a investigar y aprender cómo se utiliza HTML Y CSS. Mientras me sumergía en estos conocimientos , en mis diferentes búsquedas,me agradó descubrir la importancia de testear los sotware para entregar al usuario productos que cumplan con sus expectativas, así que decidí especializarme en ello.   
 - 🔭   Actualmente trabajo como correctora de estilo. Soy una persona atenta al detalle, encuentro errores ortotipográficos y sugiero cambios para mejorar el texto en fondo y forma. 
 - 🌱 Mi fascinación por encontrar errores me guío a estudiar Quality Assurance. Me motiva garantizar la calidad del software a través de pruebas rigurosas.
+- Tecnologías
+
+ ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&labelColor=black) 
+  ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&labelColor=blue)
+ ![Static Badge](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=black)
+
+
 - 📫 Contáctame:
   ![Static Badge](https://img.shields.io/badge/andreapozas-%230A66C2?style=flat&logo=linkedin) https://www.linkedin.com/in/andreapozas/
-- Tecnologías
-  
-   ![Static Badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman&logoColor=%23FF6C37) ![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=flat&logo=jira)  ![Static Badge](https://img.shields.io/badge/Android%20studio-lightgreen?style=flat&logo=androidauto&logoColor=%233DDC84)
+
 
 
 
