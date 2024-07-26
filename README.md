@@ -1,7 +1,8 @@
 
 ![Andrea Pozas](https://github.com/user-attachments/assets/034023d6-b524-465e-ac98-7a8147057310)
 
-                                                   Hola, soy Andrea ¡Bienvenido! 👋
+ # Hola, soy Andrea ¡Bienvenido! 👋
+
 ✨Sobre mí: Disfrutando de una transición laboral al Quality Assurance. Descubrí mi pasión a la tecnología mientras administraba un blog en WordPress, mi curiosidad me llevó a investigar y aprender cómo se utiliza HTML Y CSS. Mientras me sumergía en estos conocimientos , en mis diferentes búsquedas,me agradó descubrir la importancia de testear los sotware para entregar al usuario productos que cumplan con sus expectativas, así que decidí especializarme en ello.   
 - 🔭   Actualmente trabajo como correctora de estilo. Soy una persona atenta al detalle, encuentro errores ortotipográficos y sugiero cambios para mejorar el texto en fondo y forma. 
 - 🌱 Mi fascinación por encontrar errores me guío a estudiar Quality Assurance. Me motiva garantizar la calidad del software a través de pruebas rigurosas.
@@ -14,7 +15,13 @@
 
 
 - 📫 Contáctame:
-  ![Static Badge](https://img.shields.io/badge/andreapozas-%230A66C2?style=flat&logo=linkedin) https://www.linkedin.com/in/andreapozas/
+![Static Badge](https://img.shields.io/badge/Andrea-%230A66C2?style=for-the-badge&logo=linkedin)
+ <a href="https://www.linkedin.com/in/andreapozas/" alt="Contáctame"/>
+</a>
+
+
+
+
 
 
 
