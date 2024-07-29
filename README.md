@@ -8,9 +8,10 @@
   </ul>
 </div>
 
-✨Sobre mí: Disfrutando de una transición laboral al Quality Assurance. Descubrí mi pasión a la tecnología mientras administraba un blog en WordPress, mi curiosidad me llevó a investigar y aprender cómo se utiliza HTML Y CSS. Mientras me sumergía en estos conocimientos , en mis diferentes búsquedas,me agradó descubrir la importancia de testear los sotware para entregar al usuario productos que cumplan con sus expectativas, así que decidí especializarme en ello.   
-- 🔭   Actualmente trabajo como correctora de estilo. Soy una persona atenta al detalle, encuentro errores ortotipográficos y sugiero cambios para mejorar el texto en fondo y forma. 
-- 🌱 Mi fascinación por encontrar errores me guío a estudiar Quality Assurance. Me motiva garantizar la calidad del software a través de pruebas rigurosas.
+✨Sobre mí:
+- 🌱Mi fascinación la tecnología me guío a estudiar Quality Assurance. Actualmente estoy aprendiendo sobre pruebas automatizadas con Python y PyCharm
+- 🔭 Descubrí mi pasión a la tecnología mientras administraba un blog en WordPress, mi curiosidad me llevó a investigar y aprender cómo se utiliza HTML Y CSS.
+- 👩🏻‍💻 En mi camino para convertirme en tester he prácticado pruebas manuales, me motiva garantizar la calidad del software a través de pruebas rigurosas. 
 
 
 <!--h1 without bottom border-->
