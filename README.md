@@ -9,7 +9,7 @@
 </div>
 
 ✨Sobre mí:
-- 🌱Mi fascinación la tecnología me guío a estudiar Quality Assurance. Actualmente estoy aprendiendo sobre pruebas automatizadas con Python y PyCharm
+- 🌱Mi fascinación por la tecnología me guío a estudiar Quality Assurance. Actualmente estoy aprendiendo sobre pruebas automatizadas con Python y PyCharm
 - 🔭 Descubrí mi pasión a la tecnología mientras administraba un blog en WordPress, mi curiosidad me llevó a investigar y aprender cómo se utiliza HTML Y CSS.
 - 👩🏻‍💻 En mi camino para convertirme en tester he prácticado pruebas manuales, me motiva garantizar la calidad del software a través de pruebas rigurosas. 
 
